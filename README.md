@@ -1,9 +1,9 @@
-Hi there, I'm Shayan 👋
+# 👋Hi there, I'm Shayan 
 I'm a Petroleum engineer with a passion for coding and problem-solving. I enjoy building new things and learning new technologies. Here are some of the technologies I've been working with recently:
 
 
 # Skills
-Programming languages: Java, Python, JavaScript
+Programming languages: Java, Python, JavaScript , Rust
 Web development: HTML, CSS, React
 Backend frameworks: Spring Boot, Flask
 Database management: MongoDB
